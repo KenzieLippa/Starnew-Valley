@@ -1,40 +1,28 @@
-﻿<Properties StartupConfiguration="{62C73344-B586-ED33-1C50-1F9A73950F7F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Animation/MovementAnimationParameterControl.cs">
+﻿<Properties StartupConfiguration="{6D09DBCD-3395-32B8-FBF1-996183D7B661}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/Player.cs">
     <Files>
-      <File FileName="Assets/Scripts/Animation/MovementAnimationParameterControl.cs" Line="67" Column="59" />
-      <File FileName="Assets/Scripts/Enums/Enums.cs" Line="4" Column="13" />
-      <File FileName="Assets/Scripts/Events/EventsHandler.cs" Line="14" Column="1" />
-      <File FileName="Assets/Scripts/Misc/Settings.cs" Line="51" Column="9" />
-      <File FileName="Assets/Scripts/Player/PlayerAnimationTest.cs" Line="43" Column="53" />
+      <File FileName="Assets/Scripts/Item/ObscuringItemFader.cs" Line="37" Column="58" />
+      <File FileName="Assets/Scripts/Item/TriggerObscuringItemFader.cs" Line="36" Column="47" />
+      <File FileName="Assets/Scripts/Player/Player.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Starnew Valley" expanded="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Animation" expanded="True">
-                  <Node name="MovementAnimationParameterControl.cs" selected="True" />
-                </Node>
-                <Node name="Enums" expanded="True" />
-                <Node name="Events" expanded="True" />
-                <Node name="Misc" expanded="True" />
-                <Node name="Player" expanded="True" />
-              </Node>
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="Scripts" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Starnew Valley" expanded="True" selected="True" />
-        </State>
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="88badadf-ee22-43d5-8f7b-61ba30575ae8" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Assembly-CSharp.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="57c1e1f7-7d5d-486e-87c2-f24cac074614" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
