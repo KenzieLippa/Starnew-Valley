@@ -18,6 +18,8 @@ public abstract class SingletonMonobehaviour<T> : MonoBehaviour where T : MonoBe
 
 
     //wake up method
+    //protected means inhereted classes can access
+    //virtual can be overidden
     protected virtual void Awake()
     {
         //runs when new game object initialized

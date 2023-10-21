@@ -1,9 +1,13 @@
 ﻿<Properties StartupConfiguration="{6D09DBCD-3395-32B8-FBF1-996183D7B661}|">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/Player.cs">
     <Files>
-      <File FileName="Assets/Scripts/Item/ObscuringItemFader.cs" Line="37" Column="58" />
-      <File FileName="Assets/Scripts/Item/TriggerObscuringItemFader.cs" Line="36" Column="47" />
-      <File FileName="Assets/Scripts/Player/Player.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/UI/Cursor.cs" Line="227" Column="1" />
+      <File FileName="Assets/Scripts/Misc/Settings.cs" Line="91" Column="52" />
+      <File FileName="Assets/Scripts/HelperClasses/HelperMethods.cs" />
+      <File FileName="Assets/Scripts/Player/Player.cs" Line="104" Column="9" />
+      <File FileName="Assets/Scripts/UI/GridCursor.cs" Line="152" Column="37" />
+      <File FileName="Assets/Scripts/Map/GridPropertiesManager.cs" />
+      <File FileName="Assets/Scripts/UI/UIInventory/UIInventorySlot.cs" Line="128" Column="56" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +21,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="88badadf-ee22-43d5-8f7b-61ba30575ae8" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="3d8fb668-1ca6-4fc6-886b-b5e380b1ddf2" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <DisabledProjects>
     <String>Assembly-CSharp.csproj</String>

@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - BoundsConfiner
+  - ItemsParentTransform
+  - GroundDecoration1
+  - GroundDecoration2
+  - CropsParentTransform
   layers:
   - Default
   - TransparentFX
